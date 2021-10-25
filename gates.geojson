@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "gates",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2193" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9, "locations": "Hawke's Bay" }, "geometry": { "type": "Point", "coordinates": [ 1936318.369800000451505, 5621133.335600000806153 ] } },
+{ "type": "Feature", "properties": { "id": 1, "locations": "Southland" }, "geometry": { "type": "Point", "coordinates": [ 1242270.959501109085977, 4849506.489691350609064 ] } },
+{ "type": "Feature", "properties": { "id": 3, "locations": "Canterbury" }, "geometry": { "type": "Point", "coordinates": [ 1564946.98576845577918, 5171555.2645941991359 ] } },
+{ "type": "Feature", "properties": { "id": 4, "locations": "West Coast" }, "geometry": { "type": "Point", "coordinates": [ 1455683.490653284825385, 5307474.947090346366167 ] } },
+{ "type": "Feature", "properties": { "id": 5, "locations": "TNM" }, "geometry": { "type": "Point", "coordinates": [ 1684097.194161919644102, 5429054.712246647104621 ] } },
+{ "type": "Feature", "properties": { "id": 6, "locations": "Wellington" }, "geometry": { "type": "Point", "coordinates": [ 1749727.243237448623404, 5430811.606664845719934 ] } },
+{ "type": "Feature", "properties": { "id": 7, "locations": "Manawatu" }, "geometry": { "type": "Point", "coordinates": [ 1803711.620800000615418, 5560147.799000000581145 ] } },
+{ "type": "Feature", "properties": { "id": 8, "locations": "Taranaki" }, "geometry": { "type": "Point", "coordinates": [ 1707119.762659758329391, 5682542.775875840336084 ] } },
+{ "type": "Feature", "properties": { "id": 10, "locations": "Gisborne" }, "geometry": { "type": "Point", "coordinates": [ 2036994.684156864881516, 5707783.214358578436077 ] } },
+{ "type": "Feature", "properties": { "id": 12, "locations": "Bay of Plenty" }, "geometry": { "type": "Point", "coordinates": [ 1882061.324400000274181, 5823011.014000001363456 ] } },
+{ "type": "Feature", "properties": { "id": 14, "locations": "Northland" }, "geometry": { "type": "Point", "coordinates": [ 1691500.324600000865757, 6082514.692800000309944 ] } },
+{ "type": "Feature", "properties": { "id": 2, "locations": "Otago" }, "geometry": { "type": "Point", "coordinates": [ 1415158.053800000809133, 4923937.417900000698864 ] } },
+{ "type": "Feature", "properties": { "id": 11, "locations": "Waikato" }, "geometry": { "type": "Point", "coordinates": [ 1799464.011104375123978, 5814922.646884170360863 ] } },
+{ "type": "Feature", "properties": { "id": 13, "locations": "Auckland" }, "geometry": { "type": "Point", "coordinates": [ 1758457.780811258358881, 5920447.079385458491743 ] } }
+]
+}
