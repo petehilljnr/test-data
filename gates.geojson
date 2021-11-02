@@ -3,19 +3,19 @@
 "name": "gates",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 9, "locations": "Hawke's Bay" }, "geometry": { "type": "Point", "coordinates": [ 176.910692284772352, -39.493658478190092 ] } },
-{ "type": "Feature", "properties": { "id": 1, "locations": "Southland" }, "geometry": { "type": "Point", "coordinates": [ 168.345088459780243, -46.413181639084613 ] } },
-{ "type": "Feature", "properties": { "id": 3, "locations": "Canterbury" }, "geometry": { "type": "Point", "coordinates": [ 172.565637526233672, -43.608156024452441 ] } },
-{ "type": "Feature", "properties": { "id": 4, "locations": "West Coast" }, "geometry": { "type": "Point", "coordinates": [ 171.247208135541428, -42.371611078146849 ] } },
-{ "type": "Feature", "properties": { "id": 5, "locations": "TNM" }, "geometry": { "type": "Point", "coordinates": [ 174.004288825416921, -41.285571151422403 ] } },
-{ "type": "Feature", "properties": { "id": 6, "locations": "Wellington" }, "geometry": { "type": "Point", "coordinates": [ 174.787325914413032, -41.260250656366317 ] } },
-{ "type": "Feature", "properties": { "id": 7, "locations": "Manawatu" }, "geometry": { "type": "Point", "coordinates": [ 175.38933021111049, -40.084322596089407 ] } },
-{ "type": "Feature", "properties": { "id": 8, "locations": "Taranaki" }, "geometry": { "type": "Point", "coordinates": [ 174.237038950195853, -38.999575129293291 ] } },
-{ "type": "Feature", "properties": { "id": 10, "locations": "Gisborne" }, "geometry": { "type": "Point", "coordinates": [ 178.021986518358233, -38.670683768089177 ] } },
-{ "type": "Feature", "properties": { "id": 12, "locations": "Bay of Plenty" }, "geometry": { "type": "Point", "coordinates": [ 176.199088676872748, -37.696762791643039 ] } },
-{ "type": "Feature", "properties": { "id": 14, "locations": "Northland" }, "geometry": { "type": "Point", "coordinates": [ 174.007592990038148, -35.396539740721536 ] } },
-{ "type": "Feature", "properties": { "id": 2, "locations": "Otago" }, "geometry": { "type": "Point", "coordinates": [ 170.620826319316478, -45.81335117308145 ] } },
-{ "type": "Feature", "properties": { "id": 11, "locations": "Waikato" }, "geometry": { "type": "Point", "coordinates": [ 175.265315406499496, -37.791305495850722 ] } },
-{ "type": "Feature", "properties": { "id": 13, "locations": "Auckland" }, "geometry": { "type": "Point", "coordinates": [ 174.777305167200581, -36.848613419258761 ] } }
+{ "type": "Feature", "properties": { "id": 5, "locations": "TNM" }, "geometry": { "type": "Point", "coordinates": [ 174.0044868, -41.2869352 ] } },
+{ "type": "Feature", "properties": { "id": 1, "locations": "Southland" }, "geometry": { "type": "Point", "coordinates": [ 168.3450555, -46.4131123 ] } },
+{ "type": "Feature", "properties": { "id": 4, "locations": "West Coast" }, "geometry": { "type": "Point", "coordinates": [ 171.2238257, -42.4493986 ] } },
+{ "type": "Feature", "properties": { "id": 7, "locations": "Manawatu" }, "geometry": { "type": "Point", "coordinates": [ 175.390221700000012, -40.0856632 ] } },
+{ "type": "Feature", "properties": { "id": 9, "locations": "Hawke's Bay" }, "geometry": { "type": "Point", "coordinates": [ 176.89281170000001, -39.4958537 ] } },
+{ "type": "Feature", "properties": { "id": 10, "locations": "Gisborne" }, "geometry": { "type": "Point", "coordinates": [ 178.0221891, -38.6709527 ] } },
+{ "type": "Feature", "properties": { "id": 11, "locations": "Waikato" }, "geometry": { "type": "Point", "coordinates": [ 175.2641343, -37.790087499999984 ] } },
+{ "type": "Feature", "properties": { "id": 12, "locations": "Bay of Plenty" }, "geometry": { "type": "Point", "coordinates": [ 176.182295900000014, -37.6898475 ] } },
+{ "type": "Feature", "properties": { "id": 3, "locations": "Canterbury" }, "geometry": { "type": "Point", "coordinates": [ 172.7408713, -43.6041877 ] } },
+{ "type": "Feature", "properties": { "id": 6, "locations": "Wellington" }, "geometry": { "type": "Point", "coordinates": [ 174.7806147, -41.2790291 ] } },
+{ "type": "Feature", "properties": { "id": 8, "locations": "Taranaki" }, "geometry": { "type": "Point", "coordinates": [ 174.198971, -39.050143300000016 ] } },
+{ "type": "Feature", "properties": { "id": 13, "locations": "Auckland" }, "geometry": { "type": "Point", "coordinates": [ 174.8326529, -36.9431366 ] } },
+{ "type": "Feature", "properties": { "id": 2, "locations": "Otago" }, "geometry": { "type": "Point", "coordinates": [ 170.6214908, -45.8116778 ] } },
+{ "type": "Feature", "properties": { "id": 14, "locations": "Northland" }, "geometry": { "type": "Point", "coordinates": [ 174.322858541051005, -35.73089889714862 ] } }
 ]
 }
