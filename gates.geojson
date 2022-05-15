@@ -8,7 +8,6 @@
 { "type": "Feature", "properties": { "id": 4, "locations": "West Coast" }, "geometry": { "type": "Point", "coordinates": [ 171.2238257, -42.4493986 ] } },
 { "type": "Feature", "properties": { "id": 7, "locations": "Manawatu" }, "geometry": { "type": "Point", "coordinates": [ 175.390221700000012, -40.0856632 ] } },
 { "type": "Feature", "properties": { "id": 9, "locations": "Hawke's Bay" }, "geometry": { "type": "Point", "coordinates": [ 176.89281170000001, -39.4958537 ] } },
-{ "type": "Feature", "properties": { "id": 10, "locations": "Gisborne" }, "geometry": { "type": "Point", "coordinates": [ 178.0221891, -38.6709527 ] } },
 { "type": "Feature", "properties": { "id": 11, "locations": "Waikato" }, "geometry": { "type": "Point", "coordinates": [ 175.2641343, -37.790087499999984 ] } },
 { "type": "Feature", "properties": { "id": 12, "locations": "Bay of Plenty" }, "geometry": { "type": "Point", "coordinates": [ 176.182295900000014, -37.6898475 ] } },
 { "type": "Feature", "properties": { "id": 3, "locations": "Canterbury" }, "geometry": { "type": "Point", "coordinates": [ 172.7408713, -43.6041877 ] } },
@@ -16,6 +15,7 @@
 { "type": "Feature", "properties": { "id": 8, "locations": "Taranaki" }, "geometry": { "type": "Point", "coordinates": [ 174.198971, -39.050143300000016 ] } },
 { "type": "Feature", "properties": { "id": 13, "locations": "Auckland" }, "geometry": { "type": "Point", "coordinates": [ 174.8326529, -36.9431366 ] } },
 { "type": "Feature", "properties": { "id": 2, "locations": "Otago" }, "geometry": { "type": "Point", "coordinates": [ 170.6214908, -45.8116778 ] } },
-{ "type": "Feature", "properties": { "id": 14, "locations": "Northland" }, "geometry": { "type": "Point", "coordinates": [ 174.322858541051005, -35.73089889714862 ] } }
+{ "type": "Feature", "properties": { "id": 14, "locations": "Northland" }, "geometry": { "type": "Point", "coordinates": [ 174.322858541051005, -35.73089889714862 ] } },
+{ "type": "Feature", "properties": { "id": 10, "locations": "Gisborne" }, "geometry": { "type": "Point", "coordinates": [ 177.410896414104997, -39.023991582514377 ] } }
 ]
 }
