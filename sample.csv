@@ -1,0 +1,400 @@
+﻿fault_id,fault_type,complexity,status,priority,cost_estimate,cost_to_date,actual_cost,zone_id
+1,Overslip,Complex,Started,1,1494000,119520,120715.2,4
+2,Underslip,Complex,Complete,1,3701000,4071100,4111811,4
+3,Underslip,Complex,Programmed,1,4455000,0,0,10
+4,Underslip,Complex,Not Programmed,1,3727000,0,0,4
+5,Debris Clearance,Complex,Started,1,2533000,227970,225690.3,1
+6,Overslip,Complex,Started,1,1135000,68100,66057,1
+7,Bridge Damage,Complex,Programmed,1,1841000,0,0,3
+8,Overslip,Complex,Not Programmed,1,2916000,0,0,12
+9,Underslip,Complex,Started,1,2390000,191200,183552,8
+10,Culverts,Complex,Not Programmed,1,1696000,0,0,4
+11,Bridge Damage,Minor,Complete,0,137000,146590,142192.3,5
+12,Overslip,Minor,Not Programmed,0,46000,0,0,6
+13,Bridge Debris,Simple,Not Programmed,0,97000,0,0,9
+14,Bridge Debris,Complex,Complete,0,63000,57960,57960,4
+15,Debris Clearance,Complex,Not Programmed,0,147000,0,0,9
+16,Debris Clearance,Minor,Complete,0,147000,158760,166698,9
+17,Bridge Debris,Minor,Started,0,104000,5200,5304,3
+18,Bridge Debris,Simple,Not Programmed,0,59000,0,0,4
+19,Overslip,Complex,Not Programmed,0,77000,0,0,3
+20,Bridge Debris,Minor,Started,0,117000,8190,8271.9,7
+21,Culverts,Minor,Not Programmed,0,42000,0,0,9
+22,Scour,Minor,Programmed,0,11000,0,0,1
+23,Underslip,Simple,Started,0,115000,8050,7728,2
+24,Bridge Debris,Simple,Not Programmed,0,123000,0,0,2
+25,Overslip,Simple,Programmed,0,148000,0,0,6
+26,Overslip,Minor,Complete,0,68000,63920,64559.2,3
+27,Culverts,Simple,Started,0,61000,3050,3111,5
+28,Scour,Simple,Complete,0,73000,70080,70080,1
+29,Bridge Damage,Minor,Not Programmed,0,23000,0,0,4
+30,Debris Clearance,Minor,Started,0,31000,3410,3341.8,1
+31,Debris Clearance,Minor,Started,0,85000,8500,8075,8
+32,Culverts,Minor,Complete,0,143000,150150,150150,10
+33,Bridge Damage,Complex,Started,0,91000,7280,7352.8,8
+34,Underslip,Minor,Programmed,0,72000,0,0,13
+35,Underslip,Simple,Not Programmed,0,130000,0,0,11
+36,Bridge Debris,Simple,Started,0,140000,11200,11088,6
+37,Bridge Debris,Simple,Not Programmed,0,47000,0,0,7
+38,Culverts,Simple,Programmed,0,86000,0,0,10
+39,Scour,Simple,Started,0,136000,4080,4039.2,11
+40,Debris Clearance,Minor,Programmed,0,26000,0,0,10
+41,Culverts,Simple,Not Programmed,0,51000,0,0,9
+42,Culverts,Simple,Not Programmed,0,136000,0,0,10
+43,Debris Clearance,Minor,Not Programmed,0,33000,0,0,8
+44,Bridge Damage,Minor,Started,0,81000,8100,8505,4
+45,Overslip,Minor,Not Programmed,0,44000,0,0,7
+46,Culverts,Complex,Not Programmed,0,42000,0,0,12
+47,Debris Clearance,Complex,Complete,0,41000,37310,37683.1,7
+48,Debris Clearance,Minor,Complete,0,114000,110580,108368.4,7
+49,Scour,Simple,Started,0,122000,13420,12749,11
+50,Underslip,Simple,Not Programmed,0,100000,0,0,4
+51,Debris Clearance,Simple,Started,0,47000,3290,3355.8,4
+52,Debris Clearance,Minor,Programmed,0,115000,0,0,4
+53,Underslip,Simple,Complete,0,44000,45320,43054,1
+54,Bridge Debris,Minor,Programmed,0,107000,0,0,13
+55,Debris Clearance,Simple,Started,0,69000,2760,2677.2,8
+56,Scour,Minor,Not Programmed,0,88000,0,0,10
+57,Underslip,Minor,Started,0,54000,5400,5346,7
+58,Culverts,Simple,Programmed,0,81000,0,0,8
+59,Culverts,Minor,Programmed,0,81000,0,0,9
+60,Bridge Debris,Minor,Not Programmed,0,145000,0,0,4
+61,Overslip,Complex,Started,0,115000,6900,7245,7
+62,Debris Clearance,Simple,Started,0,34000,1360,1387.2,13
+63,Bridge Debris,Minor,Not Programmed,0,129000,0,0,3
+64,Bridge Damage,Simple,Complete,0,135000,135000,129600,3
+65,Bridge Debris,Minor,Programmed,0,51000,0,0,6
+66,Bridge Debris,Minor,Programmed,0,112000,0,0,3
+67,Scour,Minor,Not Programmed,0,111000,0,0,4
+68,Culverts,Simple,Programmed,0,23000,0,0,1
+69,Debris Clearance,Simple,Started,0,40000,0,0,1
+70,Bridge Damage,Minor,Started,0,90000,6300,6489,11
+71,Scour,Simple,Not Programmed,0,37000,0,0,5
+72,Debris Clearance,Minor,Not Programmed,0,93000,0,0,11
+73,Scour,Simple,Not Programmed,0,134000,0,0,4
+74,Culverts,Simple,Not Programmed,0,32000,0,0,7
+75,Debris Clearance,Minor,Started,0,93000,4650,4557,6
+76,Bridge Debris,Simple,Programmed,0,114000,0,0,9
+77,Overslip,Simple,Not Programmed,0,13000,0,0,9
+78,Scour,Minor,Started,0,105000,12600,12978,5
+79,Overslip,Minor,Started,0,96000,8640,8294.4,10
+80,Underslip,Simple,Programmed,0,141000,0,0,5
+81,Scour,Simple,Programmed,0,121000,0,0,3
+82,Bridge Debris,Minor,Not Programmed,0,56000,0,0,7
+83,Underslip,Minor,Complete,0,125000,137500,137500,1
+84,Bridge Damage,Complex,Started,0,17000,510,525.3,10
+85,Bridge Damage,Simple,Not Programmed,0,14000,0,0,6
+86,Scour,Minor,Started,0,54000,4860,4860,5
+87,Bridge Debris,Minor,Started,0,142000,0,0,7
+88,Overslip,Simple,Not Programmed,0,81000,0,0,5
+89,Scour,Minor,Started,0,12000,1800,1764,10
+90,Bridge Damage,Minor,Programmed,0,69000,0,0,12
+91,Bridge Debris,Simple,Programmed,0,134000,0,0,12
+92,Scour,Minor,Not Programmed,0,21000,0,0,1
+93,Debris Clearance,Simple,Started,0,28000,2800,2800,13
+94,Bridge Debris,Simple,Started,0,129000,18060,18963,2
+95,Culverts,Minor,Started,0,95000,0,0,13
+96,Underslip,Minor,Not Programmed,0,96000,0,0,13
+97,Bridge Damage,Simple,Not Programmed,0,83000,0,0,9
+98,Scour,Simple,Started,0,71000,7100,7242,1
+99,Underslip,Simple,Started,0,53000,3710,3598.7,11
+100,Underslip,Minor,Not Programmed,0,65000,0,0,2
+101,Culverts,Minor,Started,0,96000,0,0,4
+102,Debris Clearance,Simple,Started,0,110000,16500,16830,4
+103,Bridge Debris,Complex,Started,0,110000,6600,6468,1
+104,Bridge Debris,Simple,Started,0,106000,14840,15433.6,9
+105,Bridge Debris,Minor,Started,0,38000,3420,3385.8,5
+106,Underslip,Simple,Started,0,56000,5040,4939.2,5
+107,Culverts,Simple,Started,0,81000,810,810,4
+108,Overslip,Minor,Complete,0,133000,146300,149226,4
+109,Debris Clearance,Minor,Complete,0,126000,122220,122220,12
+110,Debris Clearance,Minor,Programmed,0,43000,0,0,12
+111,Debris Clearance,Simple,Not Programmed,0,86000,0,0,8
+112,Culverts,Simple,Not Programmed,0,143000,0,0,8
+113,Scour,Simple,Started,0,27000,270,280.8,13
+114,Debris Clearance,Minor,Started,0,146000,10220,10731,4
+115,Bridge Damage,Simple,Complete,0,53000,53530,51924.1,10
+116,Culverts,Complex,Not Programmed,0,80000,0,0,7
+117,Culverts,Minor,Programmed,0,25000,0,0,7
+118,Bridge Damage,Simple,Not Programmed,0,21000,0,0,8
+119,Overslip,Simple,Started,0,22000,1760,1724.8,2
+120,Bridge Damage,Minor,Started,0,143000,14300,14586,2
+121,Culverts,Simple,Not Programmed,0,97000,0,0,13
+122,Scour,Minor,Not Programmed,0,24000,0,0,5
+123,Overslip,Minor,Not Programmed,0,43000,0,0,12
+124,Bridge Damage,Simple,Programmed,0,61000,0,0,7
+125,Culverts,Minor,Complete,0,148000,150960,146431.2,3
+126,Bridge Debris,Simple,Not Programmed,0,99000,0,0,12
+127,Culverts,Minor,Programmed,0,136000,0,0,1
+128,Culverts,Minor,Started,0,130000,5200,5252,2
+129,Underslip,Simple,Started,0,50000,0,0,5
+130,Culverts,Minor,Programmed,0,133000,0,0,13
+131,Overslip,Minor,Not Programmed,0,90000,0,0,6
+132,Overslip,Minor,Started,0,132000,6600,6270,8
+133,Scour,Simple,Not Programmed,0,38000,0,0,11
+134,Culverts,Simple,Started,0,113000,5650,5367.5,13
+135,Overslip,Minor,Programmed,0,76000,0,0,7
+136,Bridge Damage,Simple,Started,0,142000,11360,11019.2,4
+137,Scour,Simple,Not Programmed,0,51000,0,0,6
+138,Debris Clearance,Simple,Programmed,0,101000,0,0,9
+139,Debris Clearance,Minor,Started,0,118000,8260,7847,11
+140,Culverts,Minor,Complete,0,64000,67840,65804.8,12
+141,Underslip,Minor,Started,0,23000,2990,3049.8,6
+142,Bridge Damage,Minor,Not Programmed,0,140000,0,0,4
+143,Bridge Damage,Complex,Programmed,0,79000,0,0,3
+144,Underslip,Simple,Not Programmed,0,112000,0,0,6
+145,Underslip,Simple,Not Programmed,0,149000,0,0,8
+146,Overslip,Simple,Not Programmed,0,89000,0,0,2
+147,Underslip,Complex,Programmed,0,54000,0,0,11
+148,Bridge Debris,Simple,Complete,0,143000,138710,141484.2,13
+149,Bridge Debris,Simple,Started,0,65000,6500,6305,2
+150,Underslip,Simple,Started,0,101000,5050,4797.5,7
+151,Scour,Simple,Not Programmed,0,132000,0,0,4
+152,Underslip,Complex,Not Programmed,0,144000,0,0,1
+153,Overslip,Minor,Programmed,0,135000,0,0,7
+154,Bridge Debris,Minor,Not Programmed,0,67000,0,0,6
+155,Bridge Debris,Simple,Started,0,52000,5720,5834.4,2
+156,Overslip,Simple,Complete,0,54000,57780,57780,5
+157,Underslip,Minor,Started,0,66000,4620,4435.2,11
+158,Bridge Damage,Simple,Started,0,52000,2600,2470,13
+159,Bridge Damage,Minor,Not Programmed,0,109000,0,0,2
+160,Bridge Damage,Simple,Started,0,80000,5600,5712,9
+161,Bridge Debris,Simple,Programmed,0,65000,0,0,13
+162,Culverts,Simple,Started,0,129000,1290,1238.4,1
+163,Underslip,Minor,Not Programmed,0,90000,0,0,6
+164,Bridge Debris,Minor,Started,0,110000,7700,7315,13
+165,Debris Clearance,Simple,Started,0,101000,11110,11443.3,10
+166,Underslip,Simple,Programmed,0,135000,0,0,3
+167,Overslip,Simple,Not Programmed,0,128000,0,0,4
+168,Overslip,Minor,Started,0,144000,18720,18345.6,2
+169,Overslip,Minor,Not Programmed,0,66000,0,0,11
+170,Scour,Minor,Started,0,110000,12100,11979,3
+171,Bridge Debris,Simple,Not Programmed,0,27000,0,0,8
+172,Debris Clearance,Simple,Started,0,11000,1540,1540,4
+173,Underslip,Minor,Started,0,121000,10890,10672.2,13
+174,Scour,Minor,Started,0,116000,12760,12249.6,1
+175,Underslip,Minor,Complete,0,39000,37440,36316.8,4
+176,Overslip,Minor,Complete,0,96000,98880,96902.4,12
+177,Overslip,Simple,Started,0,111000,13320,12787.2,4
+178,Overslip,Minor,Programmed,0,27000,0,0,1
+179,Bridge Damage,Simple,Programmed,0,85000,0,0,4
+180,Culverts,Minor,Complete,0,101000,108070,110231.4,1
+181,Scour,Complex,Started,0,63000,1260,1323,6
+182,Scour,Simple,Programmed,0,138000,0,0,5
+183,Overslip,Minor,Started,0,70000,9100,8918,1
+184,Scour,Simple,Not Programmed,0,66000,0,0,7
+185,Bridge Damage,Simple,Not Programmed,0,54000,0,0,12
+186,Debris Clearance,Minor,Complete,0,60000,55200,55200,6
+187,Bridge Damage,Minor,Programmed,0,79000,0,0,6
+188,Bridge Damage,Minor,Started,0,13000,0,0,4
+189,Bridge Damage,Minor,Programmed,0,90000,0,0,12
+190,Culverts,Simple,Programmed,0,104000,0,0,3
+191,Debris Clearance,Minor,Programmed,0,31000,0,0,4
+192,Bridge Damage,Simple,Complete,0,140000,134400,133056,13
+193,Underslip,Simple,Started,0,118000,10620,10301.4,11
+194,Culverts,Minor,Programmed,0,16000,0,0,7
+195,Overslip,Minor,Not Programmed,0,124000,0,0,12
+196,Scour,Minor,Not Programmed,0,127000,0,0,2
+197,Debris Clearance,Minor,Complete,0,88000,83600,81928,11
+198,Underslip,Simple,Started,0,72000,8640,8467.2,3
+199,Culverts,Simple,Started,0,69000,6210,6210,10
+200,Bridge Debris,Simple,Complete,0,23000,25300,26059,7
+201,Bridge Debris,Simple,Started,0,40000,1200,1140,6
+202,Debris Clearance,Complex,Started,0,149000,10430,10638.6,8
+203,Overslip,Minor,Started,0,142000,18460,19013.8,5
+204,Bridge Damage,Minor,Complete,0,83000,77190,81049.5,4
+205,Underslip,Minor,Programmed,0,95000,0,0,9
+206,Underslip,Minor,Programmed,0,56000,0,0,10
+207,Scour,Simple,Complete,0,58000,53360,54960.8,2
+208,Overslip,Simple,Started,0,53000,6890,6545.5,6
+209,Bridge Debris,Minor,Not Programmed,0,31000,0,0,10
+210,Bridge Damage,Simple,Complete,0,140000,128800,128800,1
+211,Bridge Damage,Minor,Started,0,140000,9800,9702,11
+212,Underslip,Minor,Not Programmed,0,23000,0,0,10
+213,Bridge Debris,Minor,Not Programmed,0,53000,0,0,7
+214,Culverts,Simple,Not Programmed,0,93000,0,0,12
+215,Debris Clearance,Simple,Not Programmed,0,35000,0,0,8
+216,Scour,Minor,Not Programmed,0,44000,0,0,9
+217,Underslip,Simple,Programmed,0,78000,0,0,3
+218,Overslip,Minor,Not Programmed,0,87000,0,0,10
+219,Bridge Damage,Minor,Not Programmed,0,50000,0,0,5
+220,Debris Clearance,Minor,Not Programmed,0,42000,0,0,9
+221,Debris Clearance,Minor,Started,0,44000,1320,1267.2,12
+222,Underslip,Minor,Started,0,34000,340,340,10
+223,Debris Clearance,Simple,Not Programmed,0,56000,0,0,5
+224,Debris Clearance,Simple,Programmed,0,49000,0,0,6
+225,Scour,Complex,Not Programmed,0,90000,0,0,8
+226,Overslip,Minor,Started,0,50000,4000,3840,5
+227,Bridge Damage,Minor,Not Programmed,0,66000,0,0,11
+228,Bridge Debris,Minor,Programmed,0,121000,0,0,9
+229,Culverts,Simple,Started,0,16000,640,627.2,6
+230,Bridge Debris,Minor,Not Programmed,0,97000,0,0,8
+231,Underslip,Minor,Started,0,10000,600,576,9
+232,Scour,Simple,Started,0,58000,8120,8282.4,13
+233,Debris Clearance,Minor,Started,0,64000,1280,1228.8,7
+234,Overslip,Simple,Not Programmed,0,141000,0,0,7
+235,Scour,Minor,Programmed,0,102000,0,0,1
+236,Scour,Minor,Complete,0,44000,44880,43084.8,9
+237,Bridge Damage,Minor,Started,0,118000,8260,7847,11
+238,Bridge Debris,Simple,Started,0,129000,18060,17337.6,3
+239,Debris Clearance,Minor,Not Programmed,0,20000,0,0,5
+240,Underslip,Simple,Not Programmed,0,108000,0,0,4
+241,Culverts,Complex,Not Programmed,0,133000,0,0,2
+242,Bridge Damage,Minor,Complete,0,31000,29140,30597,13
+243,Underslip,Simple,Started,0,100000,2000,2100,2
+244,Bridge Damage,Minor,Started,0,86000,11180,11403.6,13
+245,Debris Clearance,Minor,Started,0,36000,1800,1890,10
+246,Bridge Damage,Simple,Complete,0,54000,51300,51813,1
+247,Overslip,Simple,Started,0,59000,7670,7823.4,8
+248,Bridge Damage,Simple,Not Programmed,0,79000,0,0,10
+249,Bridge Damage,Minor,Started,0,14000,1260,1310.4,12
+250,Debris Clearance,Minor,Started,0,51000,6630,6630,4
+251,Culverts,Simple,Not Programmed,0,73000,0,0,1
+252,Overslip,Simple,Started,0,124000,2480,2356,11
+253,Overslip,Simple,Started,0,26000,260,267.8,9
+254,Bridge Debris,Simple,Started,0,37000,5550,5439,4
+255,Bridge Damage,Minor,Started,0,104000,3120,3182.4,12
+256,Debris Clearance,Simple,Started,0,16000,1920,2016,11
+257,Scour,Minor,Not Programmed,0,97000,0,0,9
+258,Overslip,Minor,Not Programmed,0,50000,0,0,8
+259,Culverts,Minor,Started,0,132000,7920,7999.2,11
+260,Scour,Simple,Started,0,88000,8800,8624,5
+261,Culverts,Simple,Complete,0,142000,142000,137740,13
+262,Bridge Damage,Minor,Not Programmed,0,57000,0,0,10
+263,Scour,Minor,Not Programmed,0,98000,0,0,3
+264,Culverts,Simple,Not Programmed,0,148000,0,0,11
+265,Culverts,Simple,Started,0,134000,6700,6901,6
+266,Bridge Damage,Minor,Started,0,108000,2160,2052,6
+267,Underslip,Simple,Started,0,123000,14760,15055.2,3
+268,Bridge Damage,Minor,Programmed,0,102000,0,0,9
+269,Bridge Debris,Minor,Programmed,0,95000,0,0,4
+270,Debris Clearance,Simple,Not Programmed,0,53000,0,0,13
+271,Overslip,Simple,Started,0,45000,0,0,1
+272,Underslip,Complex,Not Programmed,0,43000,0,0,8
+273,Scour,Minor,Started,0,51000,7140,6783,5
+274,Culverts,Simple,Programmed,0,80000,0,0,3
+275,Debris Clearance,Minor,Complete,0,70000,75600,79380,4
+276,Culverts,Simple,Started,0,141000,1410,1367.7,6
+277,Overslip,Minor,Started,0,27000,2970,3059.1,5
+278,Bridge Debris,Minor,Programmed,0,116000,0,0,10
+279,Bridge Damage,Minor,Programmed,0,93000,0,0,2
+280,Bridge Damage,Simple,Started,0,15000,1050,1029,8
+281,Underslip,Minor,Started,0,145000,10150,10454.5,4
+282,Overslip,Minor,Programmed,0,37000,0,0,4
+283,Scour,Minor,Programmed,0,11000,0,0,13
+284,Underslip,Minor,Complete,0,35000,33250,32917.5,3
+285,Bridge Debris,Simple,Started,0,146000,10220,10628.8,8
+286,Underslip,Simple,Programmed,0,138000,0,0,6
+287,Bridge Damage,Minor,Started,0,92000,10120,10322.4,1
+288,Underslip,Minor,Started,0,17000,2380,2380,12
+289,Debris Clearance,Minor,Started,0,124000,16120,15475.2,13
+290,Culverts,Minor,Not Programmed,0,37000,0,0,9
+291,Overslip,Simple,Complete,0,124000,125240,127744.8,7
+292,Overslip,Minor,Started,0,57000,4560,4514.4,13
+293,Debris Clearance,Simple,Started,0,55000,6050,5929,11
+294,Debris Clearance,Minor,Programmed,0,29000,0,0,3
+295,Overslip,Minor,Programmed,0,121000,0,0,8
+296,Culverts,Simple,Programmed,0,30000,0,0,13
+297,Debris Clearance,Simple,Started,0,86000,8600,8600,1
+298,Underslip,Minor,Started,0,17000,170,175.1,9
+299,Bridge Debris,Simple,Started,0,98000,6860,6722.8,1
+300,Underslip,Simple,Started,0,25000,2500,2600,8
+301,Bridge Damage,Simple,Started,0,100000,10000,10100,3
+302,Scour,Simple,Not Programmed,0,12000,0,0,11
+303,Culverts,Minor,Started,0,46000,3680,3643.2,5
+304,Bridge Debris,Minor,Programmed,0,49000,0,0,10
+305,Bridge Damage,Simple,Started,0,31000,0,0,7
+306,Bridge Debris,Simple,Not Programmed,0,129000,0,0,4
+307,Underslip,Minor,Started,0,27000,3240,3272.4,1
+308,Overslip,Minor,Not Programmed,0,36000,0,0,6
+309,Culverts,Minor,Not Programmed,0,138000,0,0,12
+310,Bridge Damage,Simple,Not Programmed,0,31000,0,0,13
+311,Bridge Damage,Minor,Complete,0,32000,30080,29478.4,4
+312,Overslip,Minor,Started,0,132000,19800,19998,11
+313,Overslip,Simple,Not Programmed,0,60000,0,0,11
+314,Bridge Damage,Simple,Complete,0,70000,67200,67872,9
+315,Overslip,Simple,Complete,0,63000,67410,70106.4,12
+316,Underslip,Complex,Not Programmed,0,57000,0,0,9
+317,Bridge Damage,Simple,Started,0,61000,6710,6844.2,6
+318,Bridge Debris,Simple,Complete,0,17000,15300,15300,1
+319,Bridge Damage,Simple,Started,0,150000,0,0,7
+320,Debris Clearance,Simple,Started,0,142000,12780,13163.4,6
+321,Bridge Debris,Minor,Started,0,119000,16660,15827,7
+322,Overslip,Minor,Not Programmed,0,26000,0,0,6
+323,Bridge Debris,Complex,Not Programmed,0,65000,0,0,5
+324,Overslip,Minor,Started,0,143000,14300,13871,12
+325,Scour,Simple,Started,0,58000,1740,1792.2,4
+326,Debris Clearance,Simple,Programmed,0,36000,0,0,4
+327,Scour,Minor,Started,0,134000,10720,10827.2,7
+328,Bridge Damage,Simple,Not Programmed,0,123000,0,0,10
+329,Bridge Damage,Minor,Complete,0,70000,72100,74263,12
+330,Culverts,Minor,Started,0,60000,600,582,2
+331,Culverts,Minor,Not Programmed,0,118000,0,0,9
+332,Overslip,Minor,Programmed,0,91000,0,0,5
+333,Overslip,Simple,Programmed,0,21000,0,0,4
+334,Culverts,Simple,Programmed,0,56000,0,0,5
+335,Bridge Debris,Minor,Programmed,0,14000,0,0,12
+336,Bridge Debris,Simple,Started,0,108000,16200,16362,1
+337,Culverts,Complex,Programmed,0,46000,0,0,5
+338,Culverts,Simple,Started,0,135000,0,0,12
+339,Culverts,Minor,Started,0,86000,10320,10216.8,13
+340,Debris Clearance,Complex,Not Programmed,0,73000,0,0,8
+341,Overslip,Minor,Not Programmed,0,72000,0,0,6
+342,Debris Clearance,Complex,Not Programmed,0,90000,0,0,6
+343,Scour,Simple,Started,0,43000,1720,1788.8,7
+344,Scour,Simple,Not Programmed,0,24000,0,0,4
+345,Bridge Debris,Minor,Programmed,0,99000,0,0,8
+346,Overslip,Simple,Not Programmed,0,27000,0,0,1
+347,Overslip,Complex,Not Programmed,0,55000,0,0,10
+348,Culverts,Complex,Started,0,118000,10620,10195.2,9
+349,Scour,Minor,Not Programmed,0,103000,0,0,9
+350,Debris Clearance,Simple,Started,0,25000,500,510,12
+351,Bridge Damage,Minor,Not Programmed,0,70000,0,0,4
+352,Culverts,Simple,Programmed,0,39000,0,0,5
+353,Scour,Minor,Started,0,25000,3250,3282.5,1
+354,Underslip,Simple,Complete,0,83000,85490,89764.5,1
+355,Bridge Damage,Simple,Started,0,40000,4800,4992,12
+356,Underslip,Minor,Complete,0,15000,15900,16377,9
+357,Culverts,Simple,Started,0,91000,5460,5733,6
+358,Underslip,Simple,Not Programmed,0,41000,0,0,10
+359,Bridge Debris,Simple,Programmed,0,127000,0,0,9
+360,Bridge Damage,Complex,Started,0,24000,2640,2692.8,4
+361,Bridge Debris,Simple,Not Programmed,0,75000,0,0,11
+362,Debris Clearance,Simple,Started,0,123000,6150,6211.5,8
+363,Culverts,Simple,Started,0,56000,0,0,2
+364,Culverts,Minor,Complete,0,87000,92220,91297.8,11
+365,Bridge Debris,Minor,Not Programmed,0,108000,0,0,13
+366,Bridge Damage,Simple,Programmed,0,117000,0,0,6
+367,Scour,Minor,Not Programmed,0,99000,0,0,5
+368,Scour,Minor,Started,0,141000,5640,5358,13
+369,Bridge Damage,Simple,Started,0,110000,1100,1045,6
+370,Debris Clearance,Minor,Complete,0,99000,101970,105029.1,1
+371,Overslip,Minor,Started,0,69000,5520,5520,10
+372,Scour,Simple,Started,0,14000,1680,1663.2,6
+373,Underslip,Minor,Started,0,67000,9380,9755.2,7
+374,Debris Clearance,Simple,Programmed,0,123000,0,0,11
+375,Overslip,Complex,Not Programmed,0,132000,0,0,4
+376,Debris Clearance,Simple,Started,0,102000,2040,2080.8,7
+377,Bridge Debris,Minor,Not Programmed,0,126000,0,0,2
+378,Bridge Damage,Simple,Complete,0,77000,77000,79310,10
+379,Scour,Minor,Not Programmed,0,140000,0,0,10
+380,Bridge Damage,Simple,Not Programmed,0,136000,0,0,4
+381,Underslip,Minor,Not Programmed,0,65000,0,0,12
+382,Bridge Damage,Simple,Not Programmed,0,142000,0,0,4
+383,Overslip,Minor,Programmed,0,99000,0,0,11
+384,Underslip,Simple,Started,0,76000,3800,3800,1
+385,Scour,Minor,Complete,0,142000,147680,140296,6
+386,Culverts,Simple,Complete,0,22000,21780,22215.6,3
+387,Scour,Simple,Started,0,29000,1160,1206.4,2
+388,Debris Clearance,Minor,Programmed,0,102000,0,0,9
+389,Culverts,Simple,Started,0,95000,5700,5529,1
+390,Culverts,Minor,Started,0,90000,10800,10260,5
+391,Scour,Simple,Programmed,0,95000,0,0,4
+392,Debris Clearance,Minor,Programmed,0,79000,0,0,2
+393,Overslip,Complex,Not Programmed,0,135000,0,0,7
+394,Underslip,Minor,Programmed,0,150000,0,0,4
+395,Bridge Debris,Minor,Started,0,132000,14520,14084.4,13
+396,Scour,Minor,Not Programmed,0,28000,0,0,9
+397,Bridge Debris,Simple,Started,0,34000,4760,4760,11
+398,Underslip,Complex,Complete,0,23000,24840,24840,2
+399,Bridge Debris,Minor,Not Programmed,0,125000,0,0,3
